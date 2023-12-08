@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-u",
+				"text-underline-position"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"blue",
+				"skyblue"
+			],
+			[
+				"U",
+				"auto-fill"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"gri",
+				"grid-gap"
+			],
+			[
+				"grid-t",
+				"grid-template-columns"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WEBDEVELOPMENT/CAR HIRE/index.html",
+		"/C/Users/jaspa/Desktop/table_management_system/table_management_system/frontend/table_management_system/gurpreet/loginstyle.css",
+		"/C/Users/jaspa/Desktop/table_management_system/table_management_system/frontend/table_management_system/gurpreet/forgotpasswordstyle.css",
+		"/C/Users/jaspa/Desktop/table_management_system/table_management_system/frontend/table_management_system/gurpreet/ForgotPassword.html",
+		"/D/WEBDEVELOPMENT/092 project-start/project-start/index.html",
+		"/C/Users/jaspa/Desktop/table_management_system/table_management_system/frontend/table_management_system/gurpreet/login.html",
+		"/D/WEBDEVELOPMENT/script.js",
+		"/D/WEBDEVELOPMENT/Index.html",
+		"/D/WEBDEVELOPMENT/086 files/style.css",
+		"/D/WEBDEVELOPMENT/CAR HIRE/style.css",
+		"/F/FileHistory/jaspa/DESKTOP-J0MFL89/Data/C/Users/jaspa/OneDrive/Documents/plsqldoc/plsqldoc (2023_02_09 20_07_34 UTC).css",
+		"/F/FileHistory/jaspa/DESKTOP-J0MFL89/Data/C/Users/jaspa/OneDrive/Documents/plsqldoc/plsqldoc (2023_09_16 03_16_35 UTC).css",
+		"/D/WEBDEVELOPMENT/092 project-start/project-start/style.css",
+		"/D/WEBDEVELOPMENT/stylesheet.css",
+		"/D/WEBDEVELOPMENT/NewPage.html",
+		"/D/WEBDEVELOPMENT/TEMP TEST/086 files/index.html",
+		"/D/WEBDEVELOPMENT/TEMP TEST/086 files/style.css",
+		"/C/Users/jaspa/Desktop/TEMP TEST/086 files/index.html",
+		"/C/Users/jaspa/Desktop/TEMP TEST/086 files/style.css",
+		"/E/Website/style.css",
+		"/E/Website/Index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
